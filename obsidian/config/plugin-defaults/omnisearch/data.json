@@ -1,0 +1,21 @@
+{
+  "useSimpleSearch": false,
+  "hideExcluded": true,
+  "downrankedFoldersFilters": [
+    "90-Templates",
+    "99-Assets"
+  ],
+  "ignoreDiacritics": true,
+  "indexedFileTypes": [],
+  "PDFIndexing": false,
+  "imagesIndexing": false,
+  "showExcerpt": true,
+  "maxMatches": 50,
+  "weightBasename": 10,
+  "weightDirectory": 4,
+  "weightH1": 6,
+  "weightH2": 5,
+  "weightH3": 4,
+  "weightUnresolvedLinks": 0,
+  "weightCustomTags": 5
+}

@@ -1,0 +1,45 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "90-Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "10-Maps",
+      "template": "90-Templates/topic-map.md"
+    },
+    {
+      "folder": "20-Cards",
+      "template": "90-Templates/atomic-card.md"
+    },
+    {
+      "folder": "30-Models",
+      "template": "90-Templates/mental-model.md"
+    },
+    {
+      "folder": "40-Decisions",
+      "template": "90-Templates/decision-log.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "90-Templates/topic-map.md",
+    "90-Templates/atomic-card.md",
+    "90-Templates/mental-model.md",
+    "90-Templates/decision-log.md"
+  ],
+  "startup_templates": []
+}
