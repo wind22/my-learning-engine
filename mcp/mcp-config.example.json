@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "knowledge-vault": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/will/Documents/my-knowledge-os/my-knowledge-vault"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+# Environment & secrets
+.env
+.env.local
+*.secret
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node / Obsidian plugin builds
+node_modules/
+dist/
+build/
+*.log
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
